@@ -2,3 +2,16 @@
    background:#c7ecee;
    border-color:white;
 }
+.button{
+padding: 10px 25px;
+font-size: 18px;
+borber: 3px solid #3498db;
+color: #3498db;
+background: #fff;
+box-shadow: 0 0 0 #3498db;
+transition:0,2;
+}
+.button:hover,.button:focus {
+  box-shadow: inset 130px 0 0 3498db;
+  color: #fff;
+}
