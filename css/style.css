@@ -12,6 +12,6 @@
    transition:0.2s;
 }
 .button:hover,.button:focus {
-  box-shadow: inset 130px 0 0 3498db;
+  box-shadow: inset 130px 0 0 #3498db;
   color: #fff;
 }
