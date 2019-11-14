@@ -15,3 +15,9 @@
   box-shadow: inset 164px 0 0 #3498db;
   color: #fff;
 }
+.1{
+display:inline-black;
+border: 5px solid black;
+background:#10ac84;
+padding:10px;
+}
