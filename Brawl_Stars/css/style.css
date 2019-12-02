@@ -1,0 +1,17 @@
+body {
+  text-famili: "Arial", sans-serif;
+   background: #40407a;
+   color: #a29bfe;
+}
+
+button {
+  display: inline-block;
+}
+
+.gay {
+  background: #74b9ff;
+}
+
+.natural {
+  background: #a29bfe;
+}
