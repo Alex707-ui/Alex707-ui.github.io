@@ -9,7 +9,7 @@ a {
 .brawl {
   border: 1px solid rgba(0,0,0,0.2);
   padding: 8px;
-  box-shadow: 0 0 20px rgba(0,0,0,0.2);
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
   border-radius: 10px;
   color: black;
 }
@@ -22,7 +22,7 @@ a {
   display: ;
   border: 1px solid rgba(0,0,0,0.2);
   padding: 8px;
-  box-shadow: 0 0 20px rgba(0,0,0,0.2);
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
   border-radius: 10px;
   color: black;
 }
