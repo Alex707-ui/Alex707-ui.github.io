@@ -17,6 +17,9 @@ a {
   color: #4a69bd;
   box-shadow: 0 0 20px rgba(0,0,0,0.5);
 }
+header{
+   border-bottom: 1px solid light-gray;
+}
 img {
    display: inline-block;
 }
