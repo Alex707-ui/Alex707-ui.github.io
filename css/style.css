@@ -17,3 +17,12 @@ a {
   color: #4a69bd;
   box-shadow: 0 0 20px rgba(0,0,0,0.5);
 }
+img {
+   display: inline-block;
+}
+.header_text {
+   display: inline-block;
+}
+.header_nav {
+   display: inline-block;
+}
