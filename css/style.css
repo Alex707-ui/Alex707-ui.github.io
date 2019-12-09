@@ -1,6 +1,7 @@
 
 body {
   padding: 10px;
+  fony-family: ;
 }
 a {
   text-decoration: none;
@@ -19,6 +20,7 @@ a {
 }
 header{
    border-bottom: 1px solid light-gray;
+   height: 50px;
 }
 img {
    display: inline-block;
