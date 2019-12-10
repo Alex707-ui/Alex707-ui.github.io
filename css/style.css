@@ -7,7 +7,6 @@ body {
 }
 a {
   text-decoration: none;
-  display: inline-block;
 }
 .site_list{
   border: 1px solid rgba(0,0,0,0.2);
