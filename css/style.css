@@ -17,7 +17,7 @@ a {
 }
 .site_list:hover {
   color: #4a69bd;
-  box-shadow: 0 0 20px rgba(0,0,0,0.5);
+  box-shadow: 0 0 15px rgba(0,0,0,0.5);
 }
 header{
    border-bottom: 1px solid #bdc3c7;
