@@ -20,7 +20,8 @@ button {
   padding: 8px;
   box-shadow: 0 0 15px rgba(0,0,0,0.2);
   border-radius: 10px;
-  color: black;
+  color: #000;
+   text-decoration: none;
 }
 .site_list:hover {
   color: #4a69bd;
