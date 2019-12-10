@@ -7,8 +7,10 @@ body {
 }
 a {
   text-decoration: none;
+  border: 1px solid #fff;
+  box-shadow: 0 0 5px rgba(0,0,0,0.5);
 }
-.site_list{
+.site_list {
   border: 1px solid rgba(0,0,0,0.2);
   padding: 8px;
   box-shadow: 0 0 15px rgba(0,0,0,0.2);
@@ -19,21 +21,22 @@ a {
   color: #4a69bd;
   box-shadow: 0 0 15px rgba(0,0,0,0.5);
 }
-header{
-   border-bottom: 1px solid #bdc3c7;
-   height: 50px;
+header {
+  border-bottom: 1px solid #bdc3c7;
+  height: 50px;
 }
 img {
-   display: inline-block;
+  display: inline-block;
 }
 .header_text {
-   display: inline-block;
+  display: inline-block;
 }
 .header_nav {
-   display: inline-block;
+  display: inline-block;
 }
-aside {
+main {
   margin-right: 500px;
-  border-right: 1px solid #fff;
-  box-shadow-right: 0 0 5px rgba(0,0,0,0.5);
+  margin-bottom: 500px;
+  border: 1px solid #fff;
+  box-shadow: 0 0 5px rgba(0,0,0,0.5);
 }
